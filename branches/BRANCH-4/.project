@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>PHP</name>
+	<name>ProductSearch-Branch4</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -19,7 +19,7 @@
 		<link>
 			<name>bin-debug</name>
 			<type>2</type>
-			<location>C:/wamp/www/ps-trunk</location>
+			<location>C:/wamp/www/branch-319</location>
 		</link>
 	</linkedResources>
 </projectDescription>
