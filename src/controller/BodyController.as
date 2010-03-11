@@ -858,7 +858,7 @@ private function doUploadVisualSearch(imageURL:String):void{
 	var params:URLVariables = new URLVariables("option=imageUploadSearch"
 		+"&pageLength=" + _pageLength.toString() + "&search_index="+contentBox.leftPanel.visualSearch.upcateSelect.selectedLabel
 		+"&firstPageReq=Y&lastPage=N");
-		//Alert.show(params.toString());
+		Alert.show(params.toString());
 	loader.load("PSInterface/imageUploadSearchController.php", params);
 }		
 
